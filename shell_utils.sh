@@ -1,0 +1,7 @@
+export ECHO_TEST="[TEST] "
+export ECHO_STARTING="[STARTING] "
+export ECHO_STOPING="[STOPING] "
+export ECHO_ERROR="[ERROR] "
+export ECHO_DONE="[DONE] "
+export ECHO_INFO="[INFO] "
+export ECHO_QUESTION="[QUESTION] "
